@@ -43,23 +43,10 @@
   <li>Deepening my knowledge in Software Development and Data Analytics.</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/YOUR-LEETCODE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/YOUR-GFG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-<a href="https://kaggle.com/YOUR-KAGGLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/YOUR-CODEFORCES" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR-TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css" />
-    <img src="https://skillicons.dev/icons?i=cpp,express,fastapi,figma,flask" />
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,js,latex,md,materialui,mongodb,mysql,nextjs,nodejs,notion,npm,opencv,postman,py,pytorch,pycharm,react,sklearn,tailwind,tensorflow,ts,vercel,visualstudio,vite,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,html,js,java,mongodb,mysql,nodejs,py,react,vscode" />
   </a>
 </p>
 
